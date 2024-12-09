@@ -4,11 +4,13 @@ An simple app that lets you generate an image from an album cover to share on so
 
 ## Usage/Examples
 
-Search a song
+### Search a song
 ![Search a song](public/Screenshot/search.jpg)
-Modify effects
+
+### Modify effects
 ![Modify effects](public/Screenshot/modify.jpg)
-Download image
+
+### Download image
 ![Download image](public/Screenshot/save.jpg)
 
 ## Demo
